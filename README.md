@@ -49,12 +49,12 @@ Commandes d'exécution :
 	
 	Main avec 6 arguments :
 
-Argument 1 : nombre de lignes (nombre)
-Argument 2 : nombre de colonnes (nombre)
-Argument 3 : nombre de coups d'avance qu'aura le joueur 2 lors de son premier tour (nombre)
-Argument 4 : profondeur de raisonnement du joueur 1 (nombre)
-Argument 5 : profondeur de raisonnement du joueur 2 (nombre)
-Argument 6 : utilisation ou non d'un élagage AlphaBêta (true ou false)
+		- Argument 1 : nombre de lignes (nombre)
+		- Argument 2 : nombre de colonnes (nombre)
+		- Argument 3 : nombre de coups d'avance qu'aura le joueur 2 lors de son premier tour (nombre)
+		- Argument 4 : profondeur de raisonnement du joueur 1 (nombre)
+		- Argument 5 : profondeur de raisonnement du joueur 2 (nombre)
+		- Argument 6 : utilisation ou non d'un élagage AlphaBêta (true ou false)
 
 
 		java executable.Jeu 1 2 3 4 5 6
@@ -63,13 +63,13 @@ Argument 6 : utilisation ou non d'un élagage AlphaBêta (true ou false)
 
 	Main avec 7 arguments :
 
-Argument 1 : nombre de lignes (nombre)
-Argument 2 : nombre de colonnes (nombre)
-Argument 3 : nombre de coups d'avance qu'aura le joueur 2 lors de son premier tour (nombre)
-Argument 4 : profondeur de raisonnement du joueur 1 (nombre)
-Argument 5 : profondeur de raisonnement du joueur 2 (nombre)
-Argument 6 : utilisation de l'algorithme MiniMax (false) ou de l'algorithme NégaMax (true)
-Argument 7 : utilisation ou non d'un élagage AlphaBêta (true ou false)
+		- Argument 1 : nombre de lignes (nombre)
+		- Argument 2 : nombre de colonnes (nombre)
+		- Argument 3 : nombre de coups d'avance qu'aura le joueur 2 lors de son premier tour (nombre)
+		- Argument 4 : profondeur de raisonnement du joueur 1 (nombre)
+		- Argument 5 : profondeur de raisonnement du joueur 2 (nombre)
+		- Argument 6 : utilisation de l'algorithme MiniMax (false) ou de l'algorithme NégaMax (true)
+		- Argument 7 : utilisation ou non d'un élagage AlphaBêta (true ou false)
 
 
 		java executable.Jeu 1 2 3 4 5 6 7
@@ -78,14 +78,14 @@ Argument 7 : utilisation ou non d'un élagage AlphaBêta (true ou false)
 
 	Main avec 8 arguments :
 
-Argument 1 : nombre de lignes (nombre)
-Argument 2 : nombre de colonnes (nombre)
-Argument 3 : nombre de coups d'avance qu'aura le joueur 2 lors de son premier tour (nombre)
-Argument 4 : profondeur de raisonnement du joueur 1 (nombre)
-Argument 5 : profondeur de raisonnement du joueur 2 (nombre)
-Argument 6 : utilisation de l'algorithme MiniMax (false) ou de l'algorithme NégaMax (true)
-Argument 7 : utilisation ou non d'un élagage AlphaBêta (true ou false)
-Argument 8 : affichages des terrains pour observer l'évolution du jeu (true ou false)
+		- Argument 1 : nombre de lignes (nombre)
+		- Argument 2 : nombre de colonnes (nombre)
+		- Argument 3 : nombre de coups d'avance qu'aura le joueur 2 lors de son premier tour (nombre)
+		- Argument 4 : profondeur de raisonnement du joueur 1 (nombre)
+		- Argument 5 : profondeur de raisonnement du joueur 2 (nombre)
+		- Argument 6 : utilisation de l'algorithme MiniMax (false) ou de l'algorithme NégaMax (true)
+		- Argument 7 : utilisation ou non d'un élagage AlphaBêta (true ou false)
+		- Argument 8 : affichages des terrains pour observer l'évolution du jeu (true ou false)
 
 
 		java executable.Jeu 1 2 3 4 5 6 7 8
