@@ -8,8 +8,8 @@ Réalisé par :
 
 GARREAU Emmanuel  
 21700336  
-L2_INFORMATIQUE  
-Groupe_1B  
+L2 Informatique  
+Groupe 1B  
 
 
 Classes Exécutables :
