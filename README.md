@@ -6,7 +6,10 @@ Note du projet : 20/20
 
 Réalisé par :
 
-GARREAU		Emmanuel	L2_INFORMATIQUE		Groupe_1B
+GARREAU Emmanuel  
+21700336  
+L2_INFORMATIQUE  
+Groupe_1B  
 
 
 Classes Exécutables :
