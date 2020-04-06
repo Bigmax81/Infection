@@ -1,3 +1,5 @@
+# Jeu de l'infection et algorithmes d'Intelligence Artificielle
+
 Bienvenue sur le projet "Jeu de l'Infection et Intelligence Artificielle" conçu dans le cadre de l'UE Sécurité et Aide à la Décision de la L2 Informatique, à l'Université de Caen Normandie.
 Il s'agit d'un projet ayant pour objectif la mise en place du jeu de l'infection ainsi que l'implémentation d'algorithmes d'Intelligence Artificielle tels le MiniMax, l'élagage AlphaBêta ou encore leur version NégaMax.
 
