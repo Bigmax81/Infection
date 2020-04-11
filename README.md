@@ -13,6 +13,7 @@ GARREAU Emmanuel
 L2 Informatique  
 Groupe 1B  
 
+Vous pouvez consulter la JavaDoc du projet ici : https://bigmax81.github.io/Infection-et-Algorithmes-d-Intelligence-Artificielle/
 
 Classes Exécutables :
 
