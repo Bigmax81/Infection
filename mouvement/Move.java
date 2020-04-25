@@ -14,7 +14,7 @@ import java.util.Arrays;
 	* <li> un tableau end contenant les coordonnées d'arrivée </li>
  * </ul>
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
 */
