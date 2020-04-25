@@ -25,7 +25,7 @@ import optimisation.IA;
 	* <li>
  * </ul>
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
 */
