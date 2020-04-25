@@ -3,7 +3,7 @@
  * algorithmes d'Intelligence Artificielle : MiniMax, Négamax ainsi que l'élagage AlphaBêta. Ils joueront ensuite au
  * jeu de l'infection.
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
  * 
