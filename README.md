@@ -9,7 +9,6 @@ Note du projet : 20/20
 Réalisé par :
 
 GARREAU Emmanuel  
-21700336  
 L2 Informatique  
 Groupe 1B  
 
