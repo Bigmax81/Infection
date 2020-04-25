@@ -13,7 +13,7 @@ package terrain;
 	* <li> un tableau double entrée d'int, terrain, de taille n x m </li>
  * </ul>
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
 */
