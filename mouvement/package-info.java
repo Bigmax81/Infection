@@ -2,7 +2,7 @@
  * <b>Description : </b>Package contenant une unique classe <i>Move</i> permettant d'instancier des objets qui
  * représenteront les mouvements des joueurs sur le plateau.
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
  * 
