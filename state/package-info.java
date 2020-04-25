@@ -2,7 +2,7 @@
  * <b>Description : </b>Package contenant une unique classe <i>State</i> permettant d'instancier un objet décrivant
  * un état d'une partie du jeu de l'infection.
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
  * 
