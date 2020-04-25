@@ -15,7 +15,7 @@ import mouvement.Move;
 	* <li> une valeur flottante qui lui est attribuée </li>
  * </ul>
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
  * 
