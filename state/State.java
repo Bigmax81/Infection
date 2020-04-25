@@ -17,7 +17,7 @@ import terrain.Board;
 	* <li> deux tableaux de coordonnées spécifiques pour le calcul des déplacements/duplications </li>
  * </ul>
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
 */
