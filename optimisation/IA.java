@@ -29,7 +29,7 @@ import mouvement.Move;
  	* <li> L'élagage AlphaBêta de la version Négamax </li>
  * </ul>
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
  * 
