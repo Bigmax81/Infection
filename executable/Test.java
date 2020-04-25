@@ -21,7 +21,7 @@ import java.util.Scanner;
  * Pour la réussite de nos tests, le terrain sera initialisé à 5 par 5.
  * </p>
  * 
- * @author Emmanuel Garreau 21700336
+ * @author Emmanuel Garreau
  * 
  * @version V1
  *
