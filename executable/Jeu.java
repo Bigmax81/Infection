@@ -22,7 +22,6 @@ import optimisation.IA;
 	* <li> l'algorithme d'optimisation à utiliser, MiniMax ou NégaMax </li>
 	* <li> l'utilisation ou non d'un élagage AlphaBêta </li>
 	* <li> l'apparition des terrains afin d'observer l'évolution du jeu </li>
-	* <li>
  * </ul>
  * 
  * @author Emmanuel Garreau
