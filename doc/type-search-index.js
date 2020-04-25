@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"terrain","l":"Board"},{"p":"optimisation","l":"Evaluation"},{"p":"optimisation","l":"IA"},{"p":"executable","l":"Jeu"},{"p":"mouvement","l":"Move"},{"p":"state","l":"State"},{"p":"executable","l":"Test"}]
